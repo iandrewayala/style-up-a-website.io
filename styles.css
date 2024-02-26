@@ -1,0 +1,48 @@
+.body-class {
+    background-color: #222; 
+    color: #fff;
+  }
+  
+.header-class {
+    background-color: #333;
+    color: #ffffff;
+  }
+  
+.nav-class {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+.nav-link-class.active {
+    font-weight: bolder
+  }
+  
+
+.title-class {
+    color: #4CAF50;
+  }
+  
+.section-title-class {
+    color: #ff6600;
+  }
+  
+.text-class {
+    color: #fff;
+  }
+  
+.image-class {
+    border: 2px solid #007bff;
+  }
+  
+.form-class input,
+.button-class {
+    background-color: #007bff;
+    color: #fff;
+    border: 1px solid #007bff;
+  }
+  
+.footer-class {
+    background-color: #333;
+    color: #fff;
+  }
+  
